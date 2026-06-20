@@ -207,9 +207,11 @@ Average Discount = AVERAGE(Superstore[Discount])
 
 ## 📁 Repository Structure
 
+text 
 
 Superstore-Sales-Dashboard/
 │
+
 ├── SuperStrore Sales Dashboard.pbix
 ├── Sample - Superstore.xlsx
 ├── dashboard.png
